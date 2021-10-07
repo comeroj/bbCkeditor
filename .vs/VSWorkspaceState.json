@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\build",
+    "\\src"
   ],
+  "SelectedNode": "\\src\\ckeditor.js",
   "PreviewInSolutionExplorer": false
 }
